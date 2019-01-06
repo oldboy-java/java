@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="grapRedPacket:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="grap-red-packet.war">
+      <element id="artifact" artifact-name="grapRedPacket:war exploded" />
+    </root>
+  </artifact>
+</component>
